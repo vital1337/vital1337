@@ -1,15 +1,9 @@
-## Trixys Profile
+## Vital's Profile
 
-"Go away im playing airsoft" - Android
+"Go away im pasting" - itagragonpro
 
 ### Amount of people who view my work ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
 
-### Discord:
-<p align="left">
-  <a href="https://github.com/Trixy1337">
-    <img src="https://discord.c99.nl/widget/theme-5/894697536663715860.png"/>
-     </a>
-</p>
 
 ### Languages and Tools:
 
